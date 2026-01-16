@@ -23,3 +23,4 @@ The project Typescript with this tasks:
 9. Namespace & Declaration merging
 
 10. Brand convention & Nominal typing
+
